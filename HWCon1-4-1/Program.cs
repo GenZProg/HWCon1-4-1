@@ -9,6 +9,10 @@ namespace HWCon1_4_1
 {
     internal class Program
     {
+        /// <summary>
+        /// Вход программы
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             WriteLine("Hello World!!!");
