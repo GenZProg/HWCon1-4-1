@@ -1,0 +1,8 @@
+C:\Repos\HWCon1-4-1\HWCon1-4-1\bin\Debug\HWCon1-4-1.exe.config
+C:\Repos\HWCon1-4-1\HWCon1-4-1\bin\Debug\HWCon1-4-1.exe
+C:\Repos\HWCon1-4-1\HWCon1-4-1\bin\Debug\HWCon1-4-1.pdb
+C:\Repos\HWCon1-4-1\HWCon1-4-1\obj\Debug\HWCon1-4-1.csproj.AssemblyReference.cache
+C:\Repos\HWCon1-4-1\HWCon1-4-1\obj\Debug\HWCon1-4-1.csproj.SuggestedBindingRedirects.cache
+C:\Repos\HWCon1-4-1\HWCon1-4-1\obj\Debug\HWCon1-4-1.csproj.CoreCompileInputs.cache
+C:\Repos\HWCon1-4-1\HWCon1-4-1\obj\Debug\HWCon1-4-1.exe
+C:\Repos\HWCon1-4-1\HWCon1-4-1\obj\Debug\HWCon1-4-1.pdb
